@@ -12,3 +12,5 @@ https://github.com/PDBeurope/pdbe-molstar
 * リロードするたびに新しい構造が開きます
 * 少し待っても出ない場合は「ハズレ」なので再ロードする（PDBに存在しないIDを開こうとしている）
 
+# PDBe-molstar
+This gadget uses PDBe-molstar webcomponent and cdn they provides.
